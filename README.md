@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://stackoverflow.com/users/7347631/andrew-naguib"><img src="https://stackoverflow.com/users/flair/7347631.png?theme=dark" width="208" height="58" alt="profile for Andrew Naguib at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andrew Naguib at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<!-- ### Hi there 👋
+
 
 <!--
 **andrewnaguib/andrewnaguib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
